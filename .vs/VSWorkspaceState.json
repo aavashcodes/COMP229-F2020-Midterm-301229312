@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\Assets\\images",
+    "\\client\\Scripts",
+    "\\server",
+    "\\server\\routes",
+    "\\server\\views",
+    "\\server\\views\\books",
+    "\\server\\views\\errors"
+  ],
+  "SelectedNode": "\\client",
+  "PreviewInSolutionExplorer": false
+}
